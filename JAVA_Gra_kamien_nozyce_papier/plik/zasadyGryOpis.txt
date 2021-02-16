@@ -1,0 +1,13 @@
+Gra składa się z kolejnych tur. W każdej turze obydwaj gracze, 
+na umówiony sygnał, szybko wystawiają przed siebie dłoń, 
+pokazującą symbol papieru, kamienia lub nożyc. Gracz, 
+który pokazał silniejszy symbol, otrzymuje jeden punkt. 
+W przypadku pokazania dwóch takich samych symboli następuje
+ remis – punktu brak. Oto hierarchia symboli:
+
+	nożyce są silniejsze od papieru, ponieważ go tną,
+	kamień jest silniejszy od nożyc, ponieważ je tępi,
+	papier jest silniejszy od kamienia, ponieważ go owija.
+
+Gracz, który pierwszy uzyska umówioną wcześniej ilość punktów, 
+wygrywa partię.

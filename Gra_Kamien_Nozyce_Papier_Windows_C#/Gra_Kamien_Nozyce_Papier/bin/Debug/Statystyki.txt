@@ -1,0 +1,4 @@
+Ilość gier: 0
+Wygranych: 0
+Przegranych: 0
+Remisy: 0

@@ -1,0 +1,10 @@
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\bin\Debug\Gra_Kamien_Nozyce_Papier.exe.config
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\bin\Debug\Gra_Kamien_Nozyce_Papier.exe
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\bin\Debug\Gra_Kamien_Nozyce_Papier.pdb
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\obj\Debug\Gra_Kamien_Nozyce_Papier.csprojAssemblyReference.cache
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\obj\Debug\Gra_Kamien_Nozyce_Papier.Properties.Resources.resources
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\obj\Debug\Gra_Kamien_Nozyce_Papier.csproj.GenerateResource.cache
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\obj\Debug\Gra_Kamien_Nozyce_Papier.csproj.CoreCompileInputs.cache
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\obj\Debug\Gra_Kamien_Nozyce_Papier.exe
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\obj\Debug\Gra_Kamien_Nozyce_Papier.pdb
+G:\PROGRAMOWANIE\C#\AppOkienkowaGra\Gra_Kamien_Nozyce_Papier\Gra_Kamien_Nozyce_Papier\obj\Debug\WindowsFormsApp1.GRA.resources

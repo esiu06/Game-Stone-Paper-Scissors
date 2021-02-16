@@ -4,3 +4,5 @@ Stone Paper Scissors game written in C # console version. Run a class named 'Sta
 Run the exe files from the location
 Gra_Kamien_Nozyce_Papier$v2\Gra_Kamien_Nozyce_Papier$\bin\Debug\Gra_Kamien_Nozyce_Papier$.exe
 
+Stone-scissors-paper game JAVA version 
+Run the plansza.main
